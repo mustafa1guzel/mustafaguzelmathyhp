@@ -1,6 +1,6 @@
 # The Mathematics Behind Machine Learning and Artificial Intelligence
 
-📄 **Preview PDF (1 page):** [mustafaguzelaimath-preview.pdf](./mustafaguzelaimath-preview.pdf)  
+📄 **Preview PDF (2 page):** [mustafaguzelaimath-preview.pdf](./mustafaguzelaimath-preview.pdf)  
 ✍️ **Author:** Mustafa Güzel  
 🏫 **Institution:** Robert College, Istanbul, Turkey  
 📅 **Date:** August 4, 2025  
